@@ -4,9 +4,10 @@ import ProductCard from "./ProductCard";
 const MenuSection = ({ searchQuery }) => {
   const [products, setProducts] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState("All");
+  const Base_url="https://mie-lora-a-bakery-shop.vercel.app/";
 
   useEffect(() => {
-    fetch("/data.json")
+    fetch(`${Base_url}/data.json`)
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((error) => console.error("Error loading data:", error));
@@ -14,7 +15,7 @@ const MenuSection = ({ searchQuery }) => {
 
   const categories = ["All", "Pastries", "Cakes", "Cupcakes", "Cookies", "Breads"];
 
-  // নাম, ক্যাটাগরি এবং বর্ণনা—তিনটিতেই সার্চ কাজ করবে
+
   const filteredProducts = products.filter((item) => {
     const matchCategory =
       selectedCategory === "All" || item.category === selectedCategory;
