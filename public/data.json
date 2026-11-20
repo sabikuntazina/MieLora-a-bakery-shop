@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "name": "Golden Butter Croissant",
+    "category": "Pastries",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800",
+    "description": "Flaky, buttery and freshly baked golden French croissant.",
+    "rating": 4.9,
+    "badge": "Bestseller"
+  },
+  {
+    "id": 2,
+    "name": "Midnight Chocolate Cake",
+    "category": "Cakes",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800",
+    "description": "Rich chocolate cake layered with smooth chocolate ganache.",
+    "rating": 4.8,
+    "badge": "Popular"
+  },
+  {
+    "id": 3,
+    "name": "Velvet Strawberry Cupcake",
+    "category": "Cupcakes",
+    "price": 160,
+    "image": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800",
+    "description": "Soft vanilla cupcake topped with fresh strawberry frosting.",
+    "rating": 4.7,
+    "badge": "New"
+  },
+  {
+    "id": 4,
+    "name": "Classic Cinnamon Roll",
+    "category": "Pastries",
+    "price": 170,
+    "image": "https://images.unsplash.com/photo-1509365465985-25d11c17e812?w=800",
+    "description": "Soft cinnamon roll topped with delicious creamy glaze.",
+    "rating": 4.9,
+    "badge": "Bestseller"
+  },
+  {
+    "id": 5,
+    "name": "Double Chocolate Cookies",
+    "category": "Cookies",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800",
+    "description": "Chewy chocolate cookies loaded with rich chocolate chunks.",
+    "rating": 4.8,
+    "badge": "Popular"
+  },
+  {
+    "id": 6,
+    "name": "Artisan Sourdough Bread",
+    "category": "Breads",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=800",
+    "description": "Rustic sourdough bread with a crispy crust and soft center.",
+    "rating": 4.9,
+    "badge": "Fresh"
+  },
+  {
+    "id": 7,
+    "name": "Honey Almond Danish",
+    "category": "Pastries",
+    "price": 210,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800",
+    "description": "Buttery Danish pastry topped with toasted almonds and honey.",
+    "rating": 4.8,
+    "badge": "Chef's Pick"
+  },
+  {
+    "id": 8,
+    "name": "Blueberry Cheesecake",
+    "category": "Cakes",
+    "price": 480,
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=800",
+    "description": "Creamy cheesecake with a buttery base and blueberry topping.",
+    "rating": 4.9,
+    "badge": "Bestseller"
+  },
+  {
+    "id": 9,
+    "name": "Fudgy Brownie Square",
+    "category": "Cookies",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800",
+    "description": "Rich and fudgy chocolate brownie with a soft center.",
+    "rating": 4.8,
+    "badge": "Popular"
+  },
+  {
+    "id": 10,
+    "name": "Pistachio Cream Roll",
+    "category": "Pastries",
+    "price": 260,
+    "image": "https://images.unsplash.com/photo-1509365465985-25d11c17e812?w=800",
+    "description": "Soft golden pastry filled with smooth pistachio cream.",
+    "rating": 5.0,
+    "badge": "Limited Edition"
+  }
+]
